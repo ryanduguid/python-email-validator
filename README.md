@@ -33,7 +33,7 @@ This is an opinionated library. You should definitely also consider using
 the less-opinionated [pyIsEmail](https://github.com/michaelherold/pyIsEmail)
 if it works better for you.
 
-[![Build Status](https://github.com/JoshData/python-email-validator/actions/workflows/test_and_build.yaml/badge.svg)](https://github.com/JoshData/python-email-validator/actions/workflows/test_and_build.yaml)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/JoshData/python-email-validator/test_and_build.yaml?label=Tests&style=flat&labelColor=000000)](https://github.com/JoshData/python-email-validator/actions/workflows/test_and_build.yaml)
 
 View the [CHANGELOG / Release Notes](CHANGELOG.md) for the version history of changes in the library. Occasionally this README is ahead of the latest published package --- see the CHANGELOG for details.
 
